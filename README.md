@@ -27,7 +27,7 @@ cheat on your vote system.
 
 Installation
 ------------
-**`npm install node-votifier`**
+**`npm install votifier`**
 
 You could also clone this repository. If you wanna do this, you know how.
 
