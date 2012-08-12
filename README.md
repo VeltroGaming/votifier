@@ -1,9 +1,6 @@
 node-votifier
 =============
 
-Emulates a Bukkit Votifier server for use in Node.jsnode-votifier
-=============
-
 **Emulates a Bukkit Votifier server in Node.js**
 
 We at CubixCraft don't like Java that much. It kinda sucks a speed. So we always try to replace it with Node.js,
