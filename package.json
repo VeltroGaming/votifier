@@ -6,13 +6,8 @@
   "contributors": [ 
     { "name": "Jan Buschtöns", "email": "buschtoens@gmail.com" }
   ],
-  "dependencies": { },
-  "devDependencies": { },
-  "keywords": [
-    "minecraft",
-    "bukkit",
-    "api"
-  ],
+  "license": "MIT",
+  "keywords": ["bukkit", "craftbukkit", "minecraft", "api", "wrapper", "votifier", "emulation"],
   "repository": "git://github.com/CubixCraft/node-votifier",
   "main": "index",
   "scripts": { },
