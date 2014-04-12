@@ -10,6 +10,7 @@ votifier.on("vote", function(user, server, ip, date) {
 		" -> User IP:    " + ip,
 		" -> Date:       " + date.toGMTString()
 	);
+});
 
 votifier.on("error", function(error) {
 	// should never happen
