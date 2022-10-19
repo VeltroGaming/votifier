@@ -4,7 +4,8 @@
   "version": "0.0.0",
   "author": "Jan Buschtöns <buschtoens@gmail.com>",
   "contributors": [ 
-    { "name": "Jan Buschtöns", "email": "buschtoens@gmail.com" }
+    { "name": "Jan Buschtöns", "email": "buschtoens@gmail.com" },
+    { "name": "Marcus Huber (Xenorio)", "email": "dev@xenorio.xyz" }
   ],
   "license": "MIT",
   "keywords": ["bukkit", "craftbukkit", "minecraft", "api", "wrapper", "votifier", "emulation"],
